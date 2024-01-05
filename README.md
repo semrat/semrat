@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 👩‍🔬👩‍💻 I am a physics doctor and love coding and touching electronics !
+### 👩‍💻👩‍🔬 I am a physics doctor and love coding and touching electronics !
 
 - 🔭 I’m working on a hardware project and a physics analysis at CERN (https://home.cern/).
   

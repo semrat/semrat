@@ -4,7 +4,7 @@
 
 - 🔭 I’m working on a hardware project at CERN and also doing physics analysis.
   
-- 🌱 I’m currently learning new ```Machine Leraning Algorithms```, ```Verilog```, ```Digital Circuits```, ```Web Page Developments``` by using HTML and CSS.
+- 🌱 I’m currently learning new ```Machine Leraning Algorithms```, ```Verilog```, ```Digital Circuits```, ```Web Page Developments``` by using ```HTML``` and ```CSS```.
   
 - 👯 I’m looking to collaborate on working alongside other amazing programmers and learn more !
   

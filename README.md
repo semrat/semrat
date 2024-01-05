@@ -2,7 +2,7 @@
 
 ### 👩‍🔬👩‍💻 I am a physics doctor and love coding and touching electronics !
 
-- 🔭 I’m working on a hardware project at CERN and also doing physics analysis.
+- 🔭 I’m working on a hardware project and a physics analysis at CERN.
   
 - 🌱 I’m currently learning new ```Machine Leraning Algorithms```, ```Verilog```, ```Digital Circuits```, ```Web Page Developments``` by using ```HTML``` and ```CSS```.
   

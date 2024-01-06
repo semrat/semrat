@@ -61,7 +61,7 @@
 </p>
 
 ### 📊 GitHub Stats  : 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=semrat&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=semrat&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

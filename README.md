@@ -67,7 +67,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=semrat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🪪 Readme Card
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=semrat&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=semrat&repo=github-readme-stats)](https://github.com/semrat/github-readme-stats)
 
 
 

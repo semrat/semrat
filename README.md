@@ -61,10 +61,9 @@
 </p>
 
 ### ✨GitHub Stats  : 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arupmandal&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arupmandal&theme=tokyonight" />
-</div>
+[![📊GitHub stats](https://github-readme-stats.vercel.app/api?username=semrat)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 

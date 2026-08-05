@@ -40,8 +40,7 @@ physics concepts and engineering applications.
 <p align="left">  
     <a href="https://www.w3schools.com/cpp/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="50" height="50"/></code> 
-    </a> 
-  
+    </a>   
     <a href="https://www.w3schools.com/python/default.asp" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="50" height="50"/></code> 
     </a> 

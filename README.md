@@ -1,15 +1,20 @@
 # Hi, I'm Semra Türkçapar, Ph.D. ⚛️
 
-### Postdoctoral Researcher at UCLouvain & CMS Collaborator
+### Postdoctoral Researcher at Université catholique de Louvain, Belgium 
 
-- 🔭 I bridge physics concepts and engineering applications. I specialize in detector instrumentation and DAQ systems.
+- 🔭 I am an experimental particle physicist specializing in detector instrumentation, data acquisition (DAQ) systems,
+and clean room integration. Throughout my career within the CMS Collaboration at CERN, I have bridged the gap between
+physics concepts and engineering applications.
   
-### 🛠️ Technical Ecosystem
-* **Languages:** C++, Python, Bash, Verilog, LaTeX
-* **Software/DevOps:** Docker, Git, GitLab CI/CD, Linux
-* **Hardware/DAQ:** µTCA, CERN IPBus, FPGA, PMTs
-* **Physics Tools:** CMSSW, ROOT, RooFit, Double DisCo
-* **Lab Tools:** Grafana, Hexagon Arms, MAX-FIB
+### 🛠️ Technical Skills
+* **Hardware & DAQ:** µTCA Crate Architecture, Silicon Modules, Hexagon Arms, MAX-FIB, Laser Maintenance Systems, USB JTAG Adapters, FE Readout Chips, PMTs, SiPMs, FPGAs, CAEN Power Supply.
+* **Low-Level Protocols & Interface:** CERN IPBus software suite (uHAL API and ControlHub arbitrator), rarpd, telnet.
+* **Software & DevOps:** Bare-metal Linux host administration (AlmaLinux 9, CentOS 7, Ubuntu), Dockerized container environments, GitLab/GitHub CI/CD, Git.
+* **Languages & Scripts:** C++, Python, Bash, XML, HTML, LaTeX, Verilog (Beginner), Vivado (Beginner).
+* **Physics Tools:**  CMS Software, ROOT, RooFit, ProofLite, Higgs Combine Tool.
+* **Lab Monitoring Tools:** Grafana for detector conrolling and monitoring, NATView application, ScorpionWare application for µTCA ssystem
+* **Cleanroom Operations:** Precision Metrology (Hexagon Arms), Optical Diagnostics (MAX-FIB), Silicon Module Integration, Thermal Management (Chillers, CO2 cooling loop pipelines, Thermal Interface Materials), PCB assembling
+and testing, Programming FPGAs (USB JTAG Adapters).
 
 
 - 🌱 I’m currently learning new ```Machine Leraning Algorithms```, ```Verilog```, ```Digital Circuits```, ```Web Page Developments``` by using ```HTML``` and ```CSS```.

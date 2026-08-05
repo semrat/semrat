@@ -11,9 +11,9 @@ physics concepts and engineering applications.
 * **Languages:** C++, Python, Bash, XML, HTML, LaTeX, Verilog (Beginner), Vivado (Beginner).
 * **Software/DevOps:** Linux (CentOS 7, AlmaLinux 9, Ubuntu), Docker, Git, GitHub/GitLab CI/CD.
 * **Low-Level Protocols:** CERN IPBus software suite, rarpd, telnet.
-* **Hardware/DAQ:** µTCA system, Silicon Modules, Laser Maintenance Systems, USB JTAG Adapters, ASIC and FPGA chips, Photo Multiplier Tubes (PMTs), Silicon Photo Multipliers (SiPMs), CAEN Power Supply.
-* **Physics Tools:** CMS SoftWare, ROOT, RooFit, ProofLite, Higgs Combine Tool.
+* **Hardware/DAQ:** µTCA system, CAEN Power Supply, Silicon Modules, Laser Maintenance Systems, USB JTAG Adapters, ASICs, FPGAs, PMTs, SiPMs.
 * **Lab Tools:** Grafana, NodeRed, Hexagon Arms, MAX-FIB, NATView, ScorpionWare
+* **Physics Tools:** CMS SoftWare, ROOT, RooFit, ProofLite, Higgs Combine Tool.
 
 ### 🔬 Core Expertise
 

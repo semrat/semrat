@@ -46,20 +46,20 @@ physics concepts and engineering applications.
     <a href="https://www.w3schools.com/bash/index.php" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/></code>  
     </a>     
-    <a href="https://www.w3schools.com/html/default.asp" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="html" width="50" height="50"/></code> 
+    <a href="[https://www.w3schools.com/html/default.asp"](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/html.png) target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/></code> 
     </a>    
-    <a href="https://www.w3schools.com/xml/default.asp" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/xml/xml-original.svg" alt="xml" width="50" height="50"/></code> 
+    <a href="[https://www.w3schools.com/xml/default.asp](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/xml.svg)" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/xml/xml-original.svg" alt="XML" width="50" height="50"/></code> 
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" alt="css" width="50" height="50"/></code>  
+    <a href="[https://www.w3schools.com/css/](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/css.png)" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/></code>  
     </a>  
-    <a href="https://ubuntu.com/tutorials/command-line-for-beginners#5-moving-and-manipulating-files" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></code> 
+    <a href="https://github.com/semrat/semrat.github.io/blob/main/assets/logo/linux.png" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></code> 
     </a>
      <a href="https://ubuntu.com/tutorials" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/></code>  
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/></code>  
     </a>
     <a href="https://support.apple.com/guide/mac-help/welcome/mac" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/macos/macos-original.svg" alt="macOS" width="50" height="50"/></code>  

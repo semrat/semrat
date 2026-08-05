@@ -50,57 +50,56 @@ physics concepts and engineering applications.
   </a>
 </p>
 
-
-" target="_blank" rel="noreferrer">
-        <img src="https://wikimedia.org" alt="CERN ROOT" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px; object-fit: contain;" /> 
-    </a>    
-    <a href="https://wikipedia.org" target="_blank" rel="noreferrer"> 
-        <img src="https://shields.io" alt="Verilog" height="50" style="vertical-align: top; margin-right: 5px; margin-bottom: 5px; border-radius: 4px;" />
+### 🌐 Languages and Tools
+<p align="left">  
+    <a href="[https://www.w3schools.com/cpp/](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/cpp.png)" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="50" height="50"/></code> 
     </a>   
-    <a href="https://w3schools.com" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="Bash" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />  
-    </a>     
-    <a href="https://w3schools.com" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="HTML5" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" /> 
-    </a>    
-    <a href="https://w3schools.com" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="XML" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" /> 
-    </a>
-    <a href="https://w3schools.com" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="CSS3" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />  
+    <a href="https://www.w3schools.com/python/default.asp" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="50" height="50"/></code> 
     </a>  
-    
-    <!-- Environments & DevOps -->
-    <a href="https://linux.org" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="Linux" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" /> 
-    </a>
-    <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="Ubuntu" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />  
-    </a>
-    <a href="https://apple.com" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="macOS" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />  
+    <a href="https://root.cern/about/logos/#splash-screen " target="_blank">
+       <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/root/root-original.svg" alt="ROOT" width="50" height="50"/></code> 
     </a>    
-    <a href="https://docker.com" target="_blank" rel="noreferrer">
-        <img src="https://jsdelivr.net" alt="Docker" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />
-    </a>
-
-    <!-- Tooling & Documentation -->
-    <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="Git" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" /> 
+    <a href="https://www.svgrepo.com/svg/374163/verilog" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/verilog/verilog-original.svg" alt="Verilog" width="50" height="50"/></code>
     </a>   
-    <a href="https://gitlab.com" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="GitLab" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />  
+    <a href="https://www.w3schools.com/bash/index.php" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/></code>  
+    </a>     
+    <a href="https://www.w3schools.com/html/default.asp" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="html" width="50" height="50"/></code> 
     </a>    
-    <a href="https://latex-project.org" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="LaTeX" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" /> 
-    </a>    
-    <a href="https://overleaf.com" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="Overleaf" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />  
-    </a>    
-    <a href="https://markdownguide.org" target="_blank" rel="noreferrer">
-        <img src="https://jsdelivr.net" alt="Markdown" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />
+    <a href="https://www.w3schools.com/xml/default.asp" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/xml/xml-original.svg" alt="xml" width="50" height="50"/></code> 
     </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" alt="css" width="50" height="50"/></code>  
+    </a>  
+    <a href="https://ubuntu.com/tutorials/command-line-for-beginners#5-moving-and-manipulating-files" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></code> 
+    </a>
+     <a href="https://ubuntu.com/tutorials" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/></code>  
+    </a>
+    <a href="https://support.apple.com/guide/mac-help/welcome/mac" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/macos/macos-original.svg" alt="macOS" width="50" height="50"/></code>  
+    </a>    
+    <a href="https://docs.github.com/en/get-started/quickstart/hello-world" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt="gitHub" width="50" height="50"/></code> 
+    </a>   
+    <a href="https://docs.gitlab.com/ee/tutorials/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/gitlab/gitlab-original.svg" alt="gitLab" width="50" height="50"/></code>  
+    </a>    
+    <a href="https://www.colorado.edu/aps/sites/default/files/attached-files/latex_primer.pdf" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/latex/latex-original.svg" alt="latex" width="50" height="50"/></code> 
+    </a>    
+    <a href="https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/overleaf/overleaf-original.svg" alt="overleaf" width="50" height="50"/></code>  
+    </a>    
 </p>
+
+
 
 
 

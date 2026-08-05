@@ -1,9 +1,17 @@
-### Hi there 👋
+# Hi, I'm Semra Türkçapar, Ph.D. ⚛️
 
-### 👩‍💻👩‍🔬 I am a physics doctor and love coding and touching electronics !
+### Postdoctoral Researcher at UCLouvain & CMS Collaborator
 
-- 🔭 I’m working on a hardware project and a physics analysis at CERN (https://home.cern/).
+- 🔭 I bridge physics concepts and engineering applications. I specialize in detector instrumentation and DAQ systems.
   
+### 🛠️ Technical Ecosystem
+* **Languages:** C++, Python, Bash, Verilog, LaTeX
+* **Software/DevOps:** Docker, Git, GitLab CI/CD, Linux
+* **Hardware/DAQ:** µTCA, CERN IPBus, FPGA, PMTs
+* **Physics Tools:** CMSSW, ROOT, RooFit, Double DisCo
+* **Lab Tools:** Grafana, Hexagon Arms, MAX-FIB
+
+
 - 🌱 I’m currently learning new ```Machine Leraning Algorithms```, ```Verilog```, ```Digital Circuits```, ```Web Page Developments``` by using ```HTML``` and ```CSS```.
   
 - 👯 I’m looking to collaborate on working alongside other amazing programmers and learn more !

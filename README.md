@@ -29,7 +29,6 @@ physics concepts and engineering applications.
 
   
 
-
 ### 🌐 Languages and Tools
 <p align="left">  
     <a href="[https://www.w3schools.com/cpp/](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/cpp.png)" target="_blank"> 
@@ -101,18 +100,4 @@ physics concepts and engineering applications.
     <img src="https://vercel.app" height="150px" alt="Top Languages" />
   </a>
 </p>
-
-
-
-<--
-### 🪪 Readme Card
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=semrat&repo=semrat)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-### ⏰ WakaTime
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=semrat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
--->
-
 

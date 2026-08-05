@@ -59,7 +59,6 @@ physics concepts and engineering applications.
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/></code>  
     </a>
     <a href="[https://github.com/semrat/semrat.github.io/blob/main/assets/logo/macOS.webp](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/macOS.webp)" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/macos/macos-original.svg" alt="MacOS" width="50" height="50"/></code>  
     </a>    
     <a href="[https://github.com/semrat/semrat.github.io/blob/main/assets/logo/github.png](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/github.png)" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt="GitHub" width="50" height="50"/></code> 

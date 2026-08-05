@@ -83,13 +83,15 @@ physics concepts and engineering applications.
 
   ### 🌐 Languages and Tools
 
-| <img src="https://jsdelivr.net" width="40" height="40" alt="C++" /> | <img src="https://jsdelivr.net" width="40" height="40" alt="Python" /> | <img src="https://wikimedia.org" width="40" height="40" alt="ROOT" /> | <img src="https://githubusercontent.com" width="40" height="40" alt="Verilog" /> | <img src="https://jsdelivr.net" width="40" height="40" alt="HTML" /> | <img src="https://iconify.design" width="40" height="40" alt="XML" /> | <img src="https://jsdelivr.net" width="40" height="40" alt="CSS" /> |
+| <img src="https://r2.dev" width="40" height="40" alt="C++" /> | <img src="https://r2.dev" width="40" height="40" alt="Python" /> | <img src="https://r2.dev" width="40" height="40" alt="ROOT" /> | <img src="https://r2.dev" width="40" height="40" alt="Verilog" /> | <img src="https://r2.dev" width="40" height="40" alt="HTML" /> | <img src="https://r2.dev" width="40" height="40" alt="XML" /> | <img src="https://r2.dev" width="40" height="40" alt="CSS" /> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **C++** | **Python** | **ROOT** | **Verilog** | **HTML** | **XML** | **CSS** |
 
-| <img src="https://iconify.design" width="40" height="40" alt="macOS" /> | <img src="https://jsdelivr.net" width="40" height="40" alt="Ubuntu" /> | <img src="https://jsdelivr.net" width="40" height="40" alt="Linux" /> | <img src="https://jsdelivr.net" width="40" height="40" alt="GitHub" /> | <img src="https://jsdelivr.net" width="40" height="40" alt="GitLab" /> | <img src="https://jsdelivr.net" width="40" height="40" alt="LaTeX" /> | <img src="https://jsdelivr.net" width="40" height="40" alt="Overleaf" /> |
+| <img src="https://r2.dev" width="40" height="40" alt="macOS" /> | <img src="https://r2.dev" width="40" height="40" alt="Ubuntu" /> | <img src="https://r2.dev" width="40" height="40" alt="Linux" /> | <img src="https://r2.dev" width="40" height="40" alt="GitHub" /> | <img src="https://r2.dev" width="40" height="40" alt="GitLab" /> | <img src="https://r2.dev" width="40" height="40" alt="LaTeX" /> | <img src="https://r2.dev" width="40" height="40" alt="Overleaf" /> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **macOS** | **Ubuntu** | **Linux** | **GitHub** | **GitLab** | **LaTeX** | **Overleaf** |
+
+
 
   
 

@@ -36,63 +36,6 @@ physics concepts and engineering applications.
   
 
 
-### 🌐 Languages and Tools
-
-<p align="left">  
-    <!-- Languages & Frameworks -->
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="C++" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" /> 
-    </a>   
-    <a href="https://www.w3schools.com/python/default.asp" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="Python" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" /> 
-    </a>  
-    <a href="https://root.cern/" target="_blank" rel="noreferrer">
-        <img src="https://jsdelivr.net" alt="ROOT (C-Based)" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" /> 
-    </a>    
-    <a href="https://wikipedia.org" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="Verilog/Hardware" width="50" height="50" style="display:none;" /><img src="https://shields.io" alt="Verilog" height="50" style="vertical-align: top; margin-right: 5px; margin-bottom: 5px;" />
-    </a>   
-    <a href="https://www.w3schools.com/bash/index.php" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="Bash" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />  
-    </a>     
-    <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="HTML5" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" /> 
-    </a>    
-    <a href="https://www.w3schools.com/xml/default.asp" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="XML" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" /> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="CSS3" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />  
-    </a>  
-    
-    <!-- Environments & Platforms -->
-    <a href="https://linux.org" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="Linux" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" /> 
-    </a>
-    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="Ubuntu" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />  
-    </a>
-    <a href="https://apple.com" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="macOS" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />  
-    </a>    
-    
-    <!-- Tooling & Documentation -->
-    <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="Git" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" /> 
-    </a>   
-    <a href="https://docs.gitlab.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="GitLab" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />  
-    </a>    
-    <a href="https://latex-project.org" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="LaTeX" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" /> 
-    </a>    
-    <a href="https://www.overleaf.com" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="Overleaf" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />  
-    </a>    
-</p>
-
-
-
 ### 📊 GitHub Statistics
 <p align="left">
   <a href="https://github.com/semrat">
@@ -106,6 +49,63 @@ physics concepts and engineering applications.
     <img src="https://vercel.app" height="150px" alt="Top Languages" />
   </a>
 </p>
+
+
+" target="_blank" rel="noreferrer">
+        <img src="https://wikimedia.org" alt="CERN ROOT" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px; object-fit: contain;" /> 
+    </a>    
+    <a href="https://wikipedia.org" target="_blank" rel="noreferrer"> 
+        <img src="https://shields.io" alt="Verilog" height="50" style="vertical-align: top; margin-right: 5px; margin-bottom: 5px; border-radius: 4px;" />
+    </a>   
+    <a href="https://w3schools.com" target="_blank" rel="noreferrer"> 
+        <img src="https://jsdelivr.net" alt="Bash" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />  
+    </a>     
+    <a href="https://w3schools.com" target="_blank" rel="noreferrer"> 
+        <img src="https://jsdelivr.net" alt="HTML5" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" /> 
+    </a>    
+    <a href="https://w3schools.com" target="_blank" rel="noreferrer"> 
+        <img src="https://jsdelivr.net" alt="XML" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" /> 
+    </a>
+    <a href="https://w3schools.com" target="_blank" rel="noreferrer"> 
+        <img src="https://jsdelivr.net" alt="CSS3" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />  
+    </a>  
+    
+    <!-- Environments & DevOps -->
+    <a href="https://linux.org" target="_blank" rel="noreferrer"> 
+        <img src="https://jsdelivr.net" alt="Linux" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" /> 
+    </a>
+    <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> 
+        <img src="https://jsdelivr.net" alt="Ubuntu" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />  
+    </a>
+    <a href="https://apple.com" target="_blank" rel="noreferrer"> 
+        <img src="https://jsdelivr.net" alt="macOS" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />  
+    </a>    
+    <a href="https://docker.com" target="_blank" rel="noreferrer">
+        <img src="https://jsdelivr.net" alt="Docker" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />
+    </a>
+
+    <!-- Tooling & Documentation -->
+    <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
+        <img src="https://jsdelivr.net" alt="Git" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" /> 
+    </a>   
+    <a href="https://gitlab.com" target="_blank" rel="noreferrer"> 
+        <img src="https://jsdelivr.net" alt="GitLab" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />  
+    </a>    
+    <a href="https://latex-project.org" target="_blank" rel="noreferrer"> 
+        <img src="https://jsdelivr.net" alt="LaTeX" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" /> 
+    </a>    
+    <a href="https://overleaf.com" target="_blank" rel="noreferrer"> 
+        <img src="https://jsdelivr.net" alt="Overleaf" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />  
+    </a>    
+    <a href="https://markdownguide.org" target="_blank" rel="noreferrer">
+        <img src="https://jsdelivr.net" alt="Markdown" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />
+    </a>
+</p>
+
+
+
+
+
 
 <!--
 ### 🪪 Readme Card

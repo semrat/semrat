@@ -6,6 +6,7 @@
 and clean room integration. Throughout my career within the CMS Collaboration at CERN, I have bridged the gap between
 physics concepts and engineering applications.
   
+
 ### 🛠️ Technical Ecosystem
 
 * **Hardware & DAQ:** µTCA system, CAEN Power Supply, Laser Maintenance Systems, USB JTAG Adapters, ASICs, FPGAs, PMTs, SiPMs, Silicon Modules.
@@ -14,6 +15,7 @@ physics concepts and engineering applications.
 * **Languages:** C++, Python, Bash, XML, HTML, LaTeX, Verilog (Beginner), Vivado (Beginner).
 * **Lab Tools:** Grafana, NodeRed, Hexagon Arms, MAX-FIB, NATView, ScorpionWare.
 * **Physics Tools:** CMS Software (CMSSW), ROOT, RooFit, ProofLite, Higgs Combine Tool.
+
 
 ### 🔬 Core Expertise
 
@@ -25,19 +27,14 @@ physics concepts and engineering applications.
 * **Teaching:** Taught to laboratory sessions for bachelors students studying physics.
 * **Outreach Tutor:** Demonstrating cloud chamber experiment for ”Physics Proect Days” targeting high school girls.
 
-### 📚 Featured Publications
-
-* 📄 **ABCDisCoTEC:** ML background estimation method.
-* 📄 **JHEP10:** Search for top squarks.
-* 📄 **Phys. Rev. D:** Top quark modeling studies.
 
 ### 🌐 Let's Connect
 
+* 📖 [INSPIRE-HEP Profile](https://inspirehep.net/authors/1071699)
 * 💼 [LinkedIn](https://linkedin.com/in/semra-turkcapar/)
-* 📖 [INSPIRE-HEP Profile](https://inspirehep.net/)
 * 📧 semra.turkcapar@uclouvain.be
   
-- 📄 Know about my experiences https://www.linkedin.com/in/semra-turkcapar/
+
 
 ### 🌐 Languages and Tools
 <p align="left">  

@@ -22,6 +22,14 @@ physics concepts and engineering applications.
 * **Physics Analysis:** Led the CMS Supersymmetry searches.
 * **Machine Learning:** Improved the performance of the Double DisCo NN and optimized the working point of a NN.
 * **Academic Mentorship:** Ph.D. Co-Supervisor, M.S. Co-Supervisor for theses.
+* **Teaching:** Taught to laboratory sessions for bachelors students studying physics.
+* **Outreach Tutor:** Demonstrating cloud chamber experiment for ”Physics Proect Days” targeting high school girls.
+
+### 📚 Featured Publications
+
+* 📄 **ABCDisCoTEC:** ML background estimation method.
+* 📄 **JHEP10:** Search for top squarks.
+* 📄 **Phys. Rev. D:** Top quark modeling studies.
 
 ### 🌐 Let's Connect
 

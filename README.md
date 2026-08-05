@@ -17,7 +17,7 @@ physics concepts and engineering applications.
 and testing, Programming FPGAs (USB JTAG Adapters).
 
 
-- 🌱 I’m currently learning new ```Machine Leraning Algorithms```, ```Verilog```, ```Digital Circuits```, ```Web Page Developments``` by using ```HTML``` and ```CSS```.
+- 🌱 I’m currently learning new ```Machine Learning Algorithms```, ```Verilog```, ```Digital Circuits```, ```Web Page Developments``` by using ```HTML``` and ```CSS```.
   
 - 👯 I’m looking to collaborate on working alongside other amazing programmers and learn more !
   

@@ -9,7 +9,8 @@ physics concepts and engineering applications.
 ### 🛠️ Technical Ecosystem
 
 * **Languages:** C++, Python, Bash, XML, HTML, LaTeX, Verilog (Beginner), Vivado (Beginner).
-* **Software/DevOps/Low-Level Protocols:** Linux (CentOS 7, AlmaLinux 9, Ubuntu), Docker, Git, GitHub/GitLab CI/CD, CERN IPBus software suite, rarpd, telnet.
+* **Software/DevOps:** Linux (CentOS 7, AlmaLinux 9, Ubuntu), Docker, Git, GitHub/GitLab CI/CD.
+* **Low-Level Protocols:** CERN IPBus software suite, rarpd, telnet.
 * **Hardware/DAQ:** µTCA system, Silicon Modules, Laser Maintenance Systems, USB JTAG Adapters, ASIC Readout Chips, FPGAs, Photo Multiplier Tubes (PMTs), Silicon Photo Multipliers (SiPMs), CAEN Power Supply.
 * **Physics Tools:** CMS SoftWare, ROOT, RooFit, ProofLite, Higgs Combine Tool.
 * **Lab Tools:** Grafana, NodeRed, Hexagon Arms, MAX-FIB, NATView, ScorpionWare

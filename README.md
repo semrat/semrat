@@ -43,24 +43,19 @@ physics concepts and engineering applications.
     </a>   
     <a href="https://www.w3schools.com/python/default.asp" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="50" height="50"/></code> 
-    </a> 
-    
+    </a>  
     <a href="https://root.cern/about/logos/#splash-screen " target="_blank">
        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/root/root-original.svg" alt="ROOT" width="50" height="50"/></code> 
-    </a>
-    
-    <a href="https://www.amazon.com/Verilog-Example-Concise-Introduction-Design/dp/0983497303" target="_blank"> 
-        <code><img src=" " alt="verilog" width="50" height="50"/></code> 
-    </a>
-    
+    </a>    
+    <a href="https://www.svgrepo.com/svg/374163/verilog" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/verilog/verilog-original.svg" alt="Verilog" width="50" height="50"/></code>
+    </a>   
     <a href="https://www.w3schools.com/bash/index.php" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bash/bash-original.svg" alt="gitLab" width="50" height="50"/></code>  
-    </a> 
-    
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/></code>  
+    </a>     
     <a href="https://www.w3schools.com/html/default.asp" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="html" width="50" height="50"/></code> 
-    </a>
-    
+    </a>    
     <a href="https://www.w3schools.com/xml/default.asp" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/xml/xml-original.svg" alt="xml" width="50" height="50"/></code> 
     </a>

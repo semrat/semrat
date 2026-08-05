@@ -45,7 +45,7 @@ physics concepts and engineering applications.
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="50" height="50"/></code> 
     </a> 
     <a href="https://root.cern/" target="_blank"> 
-       <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/root/root-original.svg" alt="root" width="50" height="50"/></code> 
+       <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/root/root-original.svg" alt="ROOT" width="50" height="50"/></code> 
     </a>
     <a href="https://www.amazon.com/Verilog-Example-Concise-Introduction-Design/dp/0983497303" target="_blank"> 
         <code><img src=" " alt="verilog" width="50" height="50"/></code> 

@@ -104,7 +104,7 @@ physics concepts and engineering applications.
 
 
 
-
+<--
 ### 🪪 Readme Card
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=semrat&repo=semrat)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -113,6 +113,6 @@ physics concepts and engineering applications.
 ### ⏰ WakaTime
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=semrat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+-->
 
 

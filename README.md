@@ -28,6 +28,14 @@ physics concepts and engineering applications.
 * **Outreach Tutor:** Demonstrating cloud chamber experiment for ”Physics Proect Days” targeting high school girls.
 
 
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://vercel.app" height="150px" />
+  <img src="https://vercel.app" height="150px" />
+</p>
+
+
 ### 🌐 Let's Connect
 
 *  💼 [LinkedIn](https://linkedin.com/in/semra-turkcapar/)

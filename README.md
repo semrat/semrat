@@ -12,8 +12,8 @@ physics concepts and engineering applications.
 * **Software & DevOps:** Linux (CentOS 7, AlmaLinux 9, Ubuntu), Docker, Git, GitHub/GitLab CI/CD.
 * **Low-Level Protocols:** CERN IPBus software suite, rarpd, telnet.
 * **Languages:** C++, Python, Bash, XML, HTML, LaTeX, Verilog (Beginner), Vivado (Beginner).
-* **Lab Tools:** Grafana, NodeRed, Hexagon Arms, MAX-FIB, NATView, ScorpionWare
-* **Physics Tools:** CMS SoftWare, ROOT, RooFit, ProofLite, Higgs Combine Tool.
+* **Lab Tools:** Grafana, NodeRed, Hexagon Arms, MAX-FIB, NATView, ScorpionWare.
+* **Physics Tools:** CMS Software (CMSSW), ROOT, RooFit, ProofLite, Higgs Combine Tool.
 
 ### 🔬 Core Expertise
 

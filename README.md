@@ -32,7 +32,7 @@ physics concepts and engineering applications.
 
 *  💼 [LinkedIn](https://linkedin.com/in/semra-turkcapar/)
 *  📖 [INSPIRE-HEP Profile](https://inspirehep.net/authors/1071699)
-* � semra.turkcapar@uclouvain.be
+* 📧 semra.turkcapar@uclouvain.be
   
 
 

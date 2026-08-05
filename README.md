@@ -44,7 +44,7 @@ physics concepts and engineering applications.
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/verilog/verilog2-original.svg" alt="Verilog" width="50" height="50"/></code>
     </a>   
     <a href="https://www.w3schools.com/bash/index.php" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/></code>  
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/></code>  
     </a>     
     <a href="[https://www.w3schools.com/html/default.asp"](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/html.png) target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/></code> 
@@ -55,26 +55,26 @@ physics concepts and engineering applications.
     <a href="[https://www.w3schools.com/css/](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/css.png)" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/></code>  
     </a>  
-    <a href="https://github.com/semrat/semrat.github.io/blob/main/assets/logo/linux.png" target="_blank"> 
+    <a href="[https://github.com/semrat/semrat.github.io/blob/main/assets/logo/linux.png](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/linux.png)" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></code> 
     </a>
-     <a href="https://ubuntu.com/tutorials" target="_blank"> 
+    <a href="[https://github.com/semrat/semrat.github.io/blob/main/assets/logo/ubuntu.png](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/ubuntu.png)" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/></code>  
     </a>
-    <a href="https://support.apple.com/guide/mac-help/welcome/mac" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/macos/macos-original.svg" alt="macOS" width="50" height="50"/></code>  
+    <a href="[https://github.com/semrat/semrat.github.io/blob/main/assets/logo/macOS.webp](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/macOS.webp)" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/macos/macos-original.svg" alt="MacOS" width="50" height="50"/></code>  
     </a>    
-    <a href="https://docs.github.com/en/get-started/quickstart/hello-world" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt="gitHub" width="50" height="50"/></code> 
+    <a href="[https://github.com/semrat/semrat.github.io/blob/main/assets/logo/github.png](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/github.png)" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt="GitHub" width="50" height="50"/></code> 
     </a>   
-    <a href="https://docs.gitlab.com/ee/tutorials/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/gitlab/gitlab-original.svg" alt="gitLab" width="50" height="50"/></code>  
+    <a href="[https://github.com/semrat/semrat.github.io/blob/main/assets/logo/gitLab.png](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/gitLab.png)" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/></code>  
     </a>    
-    <a href="https://www.colorado.edu/aps/sites/default/files/attached-files/latex_primer.pdf" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/latex/latex-original.svg" alt="latex" width="50" height="50"/></code> 
+    <a href="[https://github.com/semrat/semrat.github.io/blob/main/assets/logo/latex.svg](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/latex.svg)" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/latex/latex-original.svg" alt="Latex" width="50" height="50"/></code> 
     </a>    
-    <a href="https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/overleaf/overleaf-original.svg" alt="overleaf" width="50" height="50"/></code>  
+    <a href="[https://github.com/semrat/semrat.github.io/blob/main/assets/logo/overleaf.png](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/overleaf.png)" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/overleaf/overleaf-original.svg" alt="Overleaf" width="50" height="50"/></code>  
     </a>    
 </p>
 

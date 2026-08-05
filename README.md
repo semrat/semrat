@@ -7,7 +7,7 @@ and clean room integration. Throughout my career within the CMS Collaboration at
 physics concepts and engineering applications.
   
 ### 🛠️ Technical Skills
-* **Hardware & DAQ:** µTCA Crate Architecture, Silicon Modules, Hexagon Arms, MAX-FIB, Laser Maintenance Systems, USB JTAG Adapters, FE Readout Chips, PMTs, SiPMs, FPGAs, CAEN Power Supply.
+* **Hardware & DAQ:** µTCA Crate Architecture, Silicon Modules, Hexagon Arms, MAX-FIB, Laser Maintenance Systems, USB JTAG Adapters, ASIC Readout Chips, FPGAs, Photo Multiplier Tubes (PMTs), Silicon Photo Multipliers (SiPMs), CAEN Power Supply.
 * **Low-Level Protocols & Interface:** CERN IPBus software suite (uHAL API and ControlHub arbitrator), rarpd, telnet.
 * **Software & DevOps:** Bare-metal Linux host administration (AlmaLinux 9, CentOS 7, Ubuntu), Dockerized container environments, GitLab/GitHub CI/CD, Git.
 * **Languages & Scripts:** C++, Python, Bash, XML, HTML, LaTeX, Verilog (Beginner), Vivado (Beginner).

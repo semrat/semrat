@@ -87,12 +87,18 @@ physics concepts and engineering applications.
 
 
 ### 📊 GitHub Statistics
-[![GitHub statistics](https://github-readme-stats.vercel.app/api?username=semrat&show_icons=true&theme=catppuccin_latte)](https://github.com/semrat/github-readme-stats)
-
+<p align="left">
+  <a href="https://github.com/semrat">
+    <img src="https://vercel.app" height="150px" alt="GitHub statistics" />
+  </a>
+</p>
 
 ### 🈺 Language Breakdown
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=semrat&layout=compact)](https://github.com/semrat/github-readme-stats)
-
+<p align="left">
+  <a href="https://github.com/semrat">
+    <img src="https://vercel.app" height="150px" alt="Top Languages" />
+  </a>
+</p>
 
 <!--
 ### 🪪 Readme Card

@@ -27,28 +27,8 @@ physics concepts and engineering applications.
 * **Teaching:** Taught to laboratory sessions for bachelors students studying physics.
 * **Outreach Tutor:** Demonstrating cloud chamber experiment for ”Physics Proect Days” targeting high school girls.
 
-
-### 🌐 Let's Connect
-
-*  💼 [LinkedIn](https://linkedin.com/in/semra-turkcapar/)
-*  📖 [INSPIRE-HEP Profile](https://inspirehep.net/authors/1071699)
-* 📧 semra.turkcapar@uclouvain.be
   
 
-
-### 📊 GitHub Statistics
-<p align="left">
-  <a href="https://github.com/semrat">
-    <img src="https://vercel.app" height="150px" alt="GitHub statistics" />
-  </a>
-</p>
-
-### 🈺 Language Breakdown
-<p align="left">
-  <a href="https://github.com/semrat">
-    <img src="https://vercel.app" height="150px" alt="Top Languages" />
-  </a>
-</p>
 
 ### 🌐 Languages and Tools
 <p align="left">  
@@ -100,21 +80,39 @@ physics concepts and engineering applications.
 </p>
 
 
+### 🌐 Let's Connect
+
+*  💼 [LinkedIn](https://linkedin.com/in/semra-turkcapar/)
+*  📖 [INSPIRE-HEP Profile](https://inspirehep.net/authors/1071699)
+* 📧 semra.turkcapar@uclouvain.be
+
+
+### 📊 GitHub Statistics
+<p align="left">
+  <a href="https://github.com/semrat">
+    <img src="https://vercel.app" height="150px" alt="GitHub statistics" />
+  </a>
+</p>
+
+
+### 🈺 Language Breakdown
+<p align="left">
+  <a href="https://github.com/semrat">
+    <img src="https://vercel.app" height="150px" alt="Top Languages" />
+  </a>
+</p>
 
 
 
 
-
-
-<!--
 ### 🪪 Readme Card
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=semrat&repo=semrat)](https://github.com/anuraghazra/github-readme-stats)
--->
 
-<!--
+
+
 ### ⏰ WakaTime
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=semrat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 
 

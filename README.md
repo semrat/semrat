@@ -40,18 +40,15 @@ physics concepts and engineering applications.
     <a href="[https://github.com/semrat/semrat.github.io/blob/main/assets/logo/root.png](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/root.png)" target="_blank">
        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/root/root-original.svg" alt="ROOT" width="50" height="50"/></code> 
     </a>    
-    <a href="[https://www.svgrepo.com/svg/374163/verilog](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/verilog2.png)" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/verilog/verilog2-original.svg" alt="Verilog" width="50" height="50"/></code>
-    </a>   
     <a href="https://www.w3schools.com/bash/index.php" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/></code>  
-    </a>     
-    <a href="[https://www.w3schools.com/html/default.asp"](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/html.png) target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/></code> 
     </a>    
     <a href="[https://www.w3schools.com/xml/default.asp](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/xml.svg)" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/xml/xml-original.svg" alt="XML" width="50" height="50"/></code> 
     </a>
+    <a href="[https://www.w3schools.com/html/default.asp"](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/html.png) target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/></code> 
+    </a>    
     <a href="[https://www.w3schools.com/css/](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/css.png)" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/></code>  
     </a>  
@@ -75,7 +72,13 @@ physics concepts and engineering applications.
     </a>    
     <a href="[https://github.com/semrat/semrat.github.io/blob/main/assets/logo/overleaf.png](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/overleaf.png)" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/overleaf/overleaf-original.svg" alt="Overleaf" width="50" height="50"/></code>  
-    </a>    
+    </a>  
+     <a href="[https://www.svgrepo.com/svg/374163/verilog](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/verilog2.png)" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/verilog/verilog2-original.svg" alt="Verilog" width="50" height="50"/></code>
+    </a>   
+     <a href="[[https://www.svgrepo.com/svg/374163/verilog](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/verilog2.png)](https://user-images.githubusercontent.com/3611330/51789332-126e5400-2188-11e9-808e-37c633755ddf.png)" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/verilog/verilog2-original.svg" alt="Vivado" width="50" height="50"/></code>
+    </a>   
 </p>
 
 

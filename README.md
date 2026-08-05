@@ -82,11 +82,14 @@ physics concepts and engineering applications.
     </a>    
 </p>
 
+
 ### 📊 GitHub Statistics
 [![GitHub statistics](https://github-readme-stats.vercel.app/api?username=semrat&show_icons=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ### 🈺 Language Breakdown
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=semrat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 ### 🪪 Readme Card

@@ -8,7 +8,7 @@ physics concepts and engineering applications.
   
 ### 🛠️ Technical Ecosystem
 
-* **Hardware & DAQ:** µTCA system, CAEN Power Supply, Silicon Modules, Laser Maintenance Systems, USB JTAG Adapters, ASICs, FPGAs, PMTs, SiPMs.
+* **Hardware & DAQ:** µTCA system, CAEN Power Supply, Laser Maintenance Systems, USB JTAG Adapters, ASICs, FPGAs, PMTs, SiPMs, Silicon Modules.
 * **Software & DevOps:** Linux (CentOS 7, AlmaLinux 9, Ubuntu), Docker, Git, GitHub/GitLab CI/CD.
 * **Low-Level Protocols:** CERN IPBus software suite, rarpd, telnet.
 * **Languages:** C++, Python, Bash, XML, HTML, LaTeX, Verilog (Beginner), Vivado (Beginner).

@@ -13,7 +13,7 @@ physics concepts and engineering applications.
 * **Software & DevOps:** Linux (CentOS 7, AlmaLinux 9, Ubuntu), Docker, Git, GitHub/GitLab CI/CD.
 * **Low-Level Protocols:** CERN IPBus software suite, rarpd, telnet.
 * **Languages:** C++, Python, Bash, XML, HTML, LaTeX, Verilog (Beginner), Vivado (Beginner).
-* **Lab Tools:** Grafana, NodeRed, Hexagon Arms, MAX-FIB, NATView, ScorpionWare.
+* **Lab Tools:** Grafana, Node-RED, Hexagon Arms, MAX-FIB, NATView, ScorpionWare.
 * **Physics Tools:** CMS Software (CMSSW), ROOT, RooFit, ProofLite, Higgs Combine Tool.
 
 
@@ -30,9 +30,9 @@ physics concepts and engineering applications.
 
 ### 🌐 Let's Connect
 
-* 📖 [INSPIRE-HEP Profile](https://inspirehep.net/authors/1071699)
-* 💼 [LinkedIn](https://linkedin.com/in/semra-turkcapar/)
-* 📧 semra.turkcapar@uclouvain.be
+*  💼 [LinkedIn](https://linkedin.com/in/semra-turkcapar/)
+*  📖 [INSPIRE-HEP Profile](https://inspirehep.net/authors/1071699)
+* � semra.turkcapar@uclouvain.be
   
 
 

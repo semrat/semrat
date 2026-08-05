@@ -28,14 +28,6 @@ physics concepts and engineering applications.
 * **Outreach Tutor:** Demonstrating cloud chamber experiment for ”Physics Proect Days” targeting high school girls.
 
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" height="150px" />
-  <img src="https://vercel.app" height="150px" />
-</p>
-
-
 ### 🌐 Let's Connect
 
 *  💼 [LinkedIn](https://linkedin.com/in/semra-turkcapar/)
@@ -95,11 +87,11 @@ physics concepts and engineering applications.
 
 
 ### 📊 GitHub Statistics
-[![GitHub statistics](https://github-readme-stats.vercel.app/api?username=semrat&show_icons=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub statistics](https://github-readme-stats.vercel.app/api?username=semrat&show_icons=true&theme=catppuccin_latte)](https://github.com/semrat/github-readme-stats)
 
 
 ### 🈺 Language Breakdown
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=semrat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=semrat&layout=compact)](https://github.com/semrat/github-readme-stats)
 
 
 <!--

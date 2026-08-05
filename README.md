@@ -55,13 +55,13 @@ physics concepts and engineering applications.
     <a href="[https://www.w3schools.com/cpp/](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/cpp.png)" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="50" height="50"/></code> 
     </a>   
-    <a href="https://www.w3schools.com/python/default.asp" target="_blank"> 
+    <a href="[https://www.w3schools.com/python/default.asp](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/python.png)" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="50" height="50"/></code> 
     </a>  
-    <a href="https://root.cern/about/logos/#splash-screen " target="_blank">
+    <a href="https://github.com/semrat/semrat.github.io/blob/main/assets/logo/root.png" target="_blank">
        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/root/root-original.svg" alt="ROOT" width="50" height="50"/></code> 
     </a>    
-    <a href="https://www.svgrepo.com/svg/374163/verilog" target="_blank"> 
+    <a href="[https://www.svgrepo.com/svg/374163/verilog](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/verilog2.png)" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/verilog/verilog-original.svg" alt="Verilog" width="50" height="50"/></code>
     </a>   
     <a href="https://www.w3schools.com/bash/index.php" target="_blank"> 

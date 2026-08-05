@@ -6,24 +6,27 @@
 and clean room integration. Throughout my career within the CMS Collaboration at CERN, I have bridged the gap between
 physics concepts and engineering applications.
   
-### 🛠️ Technical Skills
-* **Hardware & DAQ:** µTCA Crate Architecture, Silicon Modules, Hexagon Arms, MAX-FIB, Laser Maintenance Systems, USB JTAG Adapters, ASIC Readout Chips, FPGAs, Photo Multiplier Tubes (PMTs), Silicon Photo Multipliers (SiPMs), CAEN Power Supply.
-* **Low-Level Protocols & Interface:** CERN IPBus software suite (uHAL API and ControlHub arbitrator), rarpd, telnet.
-* **Software & DevOps:** Bare-metal Linux host administration (AlmaLinux 9, CentOS 7, Ubuntu), Dockerized container environments, GitLab/GitHub CI/CD, Git.
-* **Languages & Scripts:** C++, Python, Bash, XML, HTML, LaTeX, Verilog (Beginner), Vivado (Beginner).
-* **Physics Tools:**  CMS Software, ROOT, RooFit, ProofLite, Higgs Combine Tool.
-* **Lab Monitoring Tools:** Grafana for detector conrolling and monitoring, NATView application, ScorpionWare application for µTCA ssystem
-* **Cleanroom Operations:** Precision Metrology (Hexagon Arms), Optical Diagnostics (MAX-FIB), Silicon Module Integration, Thermal Management (Chillers, CO2 cooling loop pipelines, Thermal Interface Materials), PCB assembling
-and testing, Programming FPGAs (USB JTAG Adapters).
+### 🛠️ Technical Ecosystem
 
+* **Languages:** C++, Python, Bash, XML, HTML, LaTeX, Verilog (Beginner), Vivado (Beginner).
+* **Software/DevOps/Low-Level Protocols:** Linux (CentOS 7, AlmaLinux 9, Ubuntu), Docker, Git, GitHub/GitLab CI/CD, CERN IPBus software suite, rarpd, telnet.
+* **Hardware/DAQ:** µTCA system, Silicon Modules, Laser Maintenance Systems, USB JTAG Adapters, ASIC Readout Chips, FPGAs, Photo Multiplier Tubes (PMTs), Silicon Photo Multipliers (SiPMs), CAEN Power Supply.
+* **Physics Tools:** CMS SoftWare, ROOT, RooFit, ProofLite, Higgs Combine Tool.
+* **Lab Tools:** Grafana, NodeRed, Hexagon Arms, MAX-FIB, NATView, ScorpionWare
 
-- 🌱 I’m currently learning new ```Machine Learning Algorithms```, ```Verilog```, ```Digital Circuits```, ```Web Page Developments``` by using ```HTML``` and ```CSS```.
-  
-- 👯 I’m looking to collaborate on working alongside other amazing programmers and learn more !
-  
-- 💬 Ask me about C++, Python, ROOT
-  
-- 📫 How to reach me: semraturkcapar@gmail.com
+### 🔬 Core Expertise
+
+* **DAQ Infrastructure:** Developing µTCA-based DAQ and Trigger Infrastructure.
+* **Integration of Silicon Modules:** Testing and Integrating Silicon Modules. 
+* **Physics Analysis:** Led the CMS Supersymmetry searches.
+* **Machine Learning:** Improved the performance of the Double DisCo NN and optimized the working point of a NN.
+* **Academic Mentorship:** Ph.D. Co-Supervisor, M.S. Co-Supervisor for theses.
+
+### 🌐 Let's Connect
+
+* 💼 [LinkedIn](https://linkedin.com/in/semra-turkcapar/)
+* 📖 [INSPIRE-HEP Profile](https://inspirehep.net/)
+* 📧 semra.turkcapar@uclouvain.be
   
 - 📄 Know about my experiences https://www.linkedin.com/in/semra-turkcapar/
 

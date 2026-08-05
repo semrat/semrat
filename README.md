@@ -79,16 +79,11 @@ physics concepts and engineering applications.
     <a href="[https://www.svgrepo.com/svg/374163/verilog](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/verilog2.png)(https://user-images.githubusercontent.com/3611330/51789332-126e5400-2188-11e9-808e-37c633755ddf.png)" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/verilog/verilog2-original.svg" alt="Vivado" width="50" height="50"/></code>
     </a>   
-   <!-- Environments & DevOps -->
-    <a href="https://linux.org" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="Linux" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" /> 
-    </a>
-    <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="Ubuntu" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />  
-    </a>
-    <a href="https://apple.com" target="_blank" rel="noreferrer"> 
-        <img src="https://jsdelivr.net" alt="macOS" width="50" height="50" style="margin-right: 5px; margin-bottom: 5px;" />  
-    </a>   
+   <!-- macOS -->
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 75px; height: 75px; background: #ffffff; border-radius: 12px; box-shadow: 0px 4px 10px rgba(0,0,0,0.06); border: 1px solid #f0f0f0;">
+    <img src="https://iconify.design" width="32" height="32" alt="macOS" />
+    <span style="font-size: 10px; font-family: sans-serif; color: #333333; margin-top: 4px; font-weight: 500;">macOS</span>
+  </div> 
 </p>
 
 

@@ -2,7 +2,7 @@
 
 ### 👩‍💻📚🧑‍🔧 Postdoctoral Researcher at Université catholique de Louvain, Belgium 
 
-- 🔭 I am an experimental particle physicist specializing in detector instrumentation, data acquisition (DAQ) systems,
+🔭 I am an experimental particle physicist specializing in detector instrumentation, data acquisition (DAQ) systems,
 and clean room integration. Throughout my career within the CMS Collaboration at CERN, I have bridged the gap between
 physics concepts and engineering applications.
   

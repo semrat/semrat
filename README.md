@@ -59,6 +59,7 @@ physics concepts and engineering applications.
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/></code>  
     </a>
     <a href="[https://github.com/semrat/semrat.github.io/blob/main/assets/logo/macOS.webp](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/macOS.webp)" target="_blank"> 
+       <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/macos/macos-original.svg" alt="MacOS" width="50" height="50"/></code>  
     </a>    
     <a href="[https://github.com/semrat/semrat.github.io/blob/main/assets/logo/github.png](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/github.png)" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt="GitHub" width="50" height="50"/></code> 
@@ -72,10 +73,10 @@ physics concepts and engineering applications.
     <a href="[https://github.com/semrat/semrat.github.io/blob/main/assets/logo/overleaf.png](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/overleaf.png)" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/overleaf/overleaf-original.svg" alt="Overleaf" width="50" height="50"/></code>  
     </a>  
-     <a href="[https://www.svgrepo.com/svg/374163/verilog2](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/verilog2.png)" target="_blank"> 
+    <a href="[https://www.svgrepo.com/svg/374163/verilog2](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/verilog2.png)" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/verilog/verilog2-original.svg" alt="Verilog" width="50" height="50"/></code>
     </a>   
-     <a href="[https://www.svgrepo.com/svg/374163/verilog](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/verilog2.png)(https://user-images.githubusercontent.com/3611330/51789332-126e5400-2188-11e9-808e-37c633755ddf.png)" target="_blank"> 
+    <a href="[https://www.svgrepo.com/svg/374163/verilog](https://github.com/semrat/semrat.github.io/blob/main/assets/logo/verilog2.png)(https://user-images.githubusercontent.com/3611330/51789332-126e5400-2188-11e9-808e-37c633755ddf.png)" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/verilog/verilog2-original.svg" alt="Vivado" width="50" height="50"/></code>
     </a>   
 </p>

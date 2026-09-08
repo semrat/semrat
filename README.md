@@ -19,10 +19,21 @@ physics concepts and engineering applications.
 
 ### 🔬 Core Expertise
 
-* **DAQ Infrastructure:** Developing µTCA-based DAQ and Trigger Infrastructure to automate trigger generation and synchronization.
-* **Integration of Silicon Modules:** Testing and Integrating Silicon Modules. 
-* **Physics Analysis:** Developed a core framework for the CMS Supersymmetry searches.
-* **Machine Learning:** Improved the performance of the Double DisCo NN and optimized the working point of a NN.
+* **Hardware & DAQ:** µTCA Crate Architecture (NAT-MCH, AMC13, FC7s), Silicon Modules and their services,
+Hexagon Arms, MAX-FIB, Laser Maintenance Systems, FE Readout Chips, PMTs, SiPMs, CAEN Power Supply.
+* **Cleanroom Operations:** Precision Metrology (Hexagon Arms), Optical Diagnostics (MAX-FIB), Silicon Module
+Integration, Thermal Management (Chillers, CO2 cooling loop pipelines, Thermal Interface Materials), PCB assembling
+and testing.
+* **Controlling & Monitoring Tools:** Grafana (for power, cooling and environmental probes), NATView (for NAT-
+MCH), ScorpionWare (for µTCA systems), Run Control and Monitoring Systems (RCMS) for local data acquisition.
+* **Low-Level Protocols & Interface:* CERN IPBus software suite (uHAL API and ControlHub arbitrator), rarpd,
+telnet.
+* **Firmware & Tools:** Xilinx Vivado (familiarity with synthesis/workflows), Digilent Basys 3 development environment,
+USB JTAG Adapters (firmware flashing and hardware verification).
+* **Software & DevOps:** Bare-metal Linux host administration (AlmaLinux 9, CentOS 7, Ubuntu), Dockerized container
+environments, GitLab/GitHub CI/CD, Git.
+* **Languages & Scripts:** C++, Python, Bash, XML, HTML, LaTeX.
+* **Physics Tools:** CMSSW, ROOT, RooFit, ProofLite, Higgs Combine Tool, Double DisCo Neural Network (for background estimation), DNN (for object tagging).
 * **Academic Mentorship:** Ph.D. Co-Supervisor, M.S. Co-Supervisor for theses.
 * **Teaching:** Taught to laboratory sessions for bachelors students studying physics.
 * **Outreach Tutor:** Demonstrating cloud chamber experiment for ”Physics Proect Days” targeting high school girls.

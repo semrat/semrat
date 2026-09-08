@@ -2,8 +2,7 @@
 
 ### 👩‍💻📚🧑‍🔧🔭 Postdoctoral Researcher at Université catholique de Louvain, Belgium 
 
-I am an experimental particle physicist specializing in detector instrumentation, data acquisition (DAQ) systems, and cleanroom integration. Throughout my career within the CMS Collaboration, I have bridged the gap between physics concepts and engineering applications, contributing significantly to the Phase-1 Hadronic Calorimeter (HCAL) and Phase-2 Outer Tracker Endcap Double Disc (TEDD) upgrades. My technical expertise
-spans µTCA-based hardware deployment, low-level firmware integration, advanced thermal management, and sub-micron precision metrology.
+I am an experimental particle physicist specializing in detector instrumentation, data acquisition (DAQ) systems, and cleanroom integration. Throughout my career within the CMS Collaboration at CERN, I have bridged the gap between physics concepts and engineering applications, contributing significantly to the Phase-1 Hadronic Calorimeter (HCAL) and Phase-2 Outer Tracker Endcap Double Disc (TEDD) upgrades. My technical expertise spans µTCA-based hardware deployment, low-level firmware integration, advanced thermal management, and sub-micron precision metrology.
 
   
 

@@ -9,7 +9,7 @@ physics concepts and engineering applications.
 
 ### 🛠️ Technical Ecosystem
 
-* **Hardware & DAQ:** µTCA Crate Architecture (NAT-MCH, AMC13, FC7s), Silicon Modules and their services,
+* **Hardware & DAQ:** µTCA Crate Architecture (NAT & VadaTech MCH, AMC13, FC7s), Silicon Modules and their services,
 Hexagon Arms, MAX-FIB, Laser Maintenance Systems, FE Readout Chips, PMTs, SiPMs, CAEN Power Supply.
 * **Cleanroom Operations:** Precision Metrology (Hexagon Arms), Optical Diagnostics (MAX-FIB), Silicon Module
 Integration, Thermal Management (Chillers, CO2 cooling loop pipelines, Thermal Interface Materials), PCB assembling

@@ -9,16 +9,6 @@ physics concepts and engineering applications.
 
 ### 🛠️ Technical Ecosystem
 
-* **Hardware & DAQ:** µTCA system, CAEN Power Supply, Laser Maintenance Systems, USB JTAG Adapters, ASICs, FPGAs, PMTs, SiPMs, Silicon Modules.
-* **Software & DevOps:** Linux (CentOS 7, AlmaLinux 9, Ubuntu), Docker, Git, GitHub/GitLab CI/CD.
-* **Low-Level Protocols:** CERN IPBus software suite, rarpd, telnet.
-* **Languages:** C++, Python, Bash, XML, HTML, LaTeX, Verilog (Beginner), Vivado (Beginner).
-* **Lab Tools:** Grafana, Node-RED, Hexagon Arms, MAX-FIB, NATView, ScorpionWare.
-* **Physics Tools:** CMS Software (CMSSW), ROOT, RooFit, ProofLite, Higgs Combine Tool.
-
-
-### 🔬 Core Expertise
-
 * **Hardware & DAQ:** µTCA Crate Architecture (NAT-MCH, AMC13, FC7s), Silicon Modules and their services,
 Hexagon Arms, MAX-FIB, Laser Maintenance Systems, FE Readout Chips, PMTs, SiPMs, CAEN Power Supply.
 * **Cleanroom Operations:** Precision Metrology (Hexagon Arms), Optical Diagnostics (MAX-FIB), Silicon Module
@@ -33,7 +23,12 @@ USB JTAG Adapters (firmware flashing and hardware verification).
 * **Software & DevOps:** Bare-metal Linux host administration (AlmaLinux 9, CentOS 7, Ubuntu), Dockerized container
 environments, GitLab/GitHub CI/CD, Git.
 * **Languages & Scripts:** C++, Python, Bash, XML, HTML, LaTeX.
-* **Physics Tools:** CMSSW, ROOT, RooFit, ProofLite, Higgs Combine Tool, Double DisCo Neural Network (for background estimation), DNN (for object tagging).
+* **Physics Tools:** CMSSW, ROOT, RooFit, ProofLite, Higgs Combine Tool,
+
+
+
+### 🔬 Core Expertise
+* 
 * **Academic Mentorship:** Ph.D. Co-Supervisor, M.S. Co-Supervisor for theses.
 * **Teaching:** Taught to laboratory sessions for bachelors students studying physics.
 * **Outreach Tutor:** Demonstrating cloud chamber experiment for ”Physics Proect Days” targeting high school girls.

@@ -19,7 +19,7 @@ physics concepts and engineering applications.
 
 ### 🔬 Core Expertise
 
-* **DAQ Infrastructure:** Developing µTCA-based DAQ and Trigger Infrastructure.
+* **DAQ Infrastructure:** Developing µTCA-based DAQ and Trigger Infrastructure to automate trigger generation and synchronization.
 * **Integration of Silicon Modules:** Testing and Integrating Silicon Modules. 
 * **Physics Analysis:** Led the CMS Supersymmetry searches.
 * **Machine Learning:** Improved the performance of the Double DisCo NN and optimized the working point of a NN.

@@ -16,14 +16,14 @@ Integration, Thermal Management (Chillers, CO2 cooling loop pipelines, Thermal I
 and testing.
 * **Controlling & Monitoring Tools:** Grafana (for power, cooling and environmental probes), NATView (for NAT-
 MCH), ScorpionWare (for µTCA systems), Run Control and Monitoring Systems (RCMS) for local data acquisition.
-* **Low-Level Protocols & Interface:* CERN IPBus software suite (uHAL API and ControlHub arbitrator), rarpd,
+* **Low-Level Protocols & Interface:** CERN IPBus software suite (uHAL API and ControlHub arbitrator), rarpd,
 telnet.
 * **Firmware & Tools:** Xilinx Vivado (familiarity with synthesis/workflows), Digilent Basys 3 development environment,
 USB JTAG Adapters (firmware flashing and hardware verification).
 * **Software & DevOps:** Bare-metal Linux host administration (AlmaLinux 9, CentOS 7, Ubuntu), Dockerized container
 environments, GitLab/GitHub CI/CD, Git.
 * **Languages & Scripts:** C++, Python, Bash, XML, HTML, LaTeX.
-* **Physics Tools:** CMSSW, ROOT, RooFit, ProofLite, Higgs Combine Tool,
+* **Physics Tools:** CMSSW, ROOT, RooFit, ProofLite, Higgs Combine Tool
 
 
 

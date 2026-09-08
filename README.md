@@ -28,7 +28,10 @@ environments, GitLab/GitHub CI/CD, Git.
 
 
 ### 🔬 Core Expertise
-* 
+* **DAQ Infrastructure:** Developing µTCA-based DAQ and Trigger Infrastructure to automate trigger generation and synchronization.
+* **Integration of Silicon Modules:** Testing and Integrating Silicon Modules onto Dee Structure. 
+* **Physics Analysis:** Developed a core framework for the CMS Supersymmetry searches.
+* **Machine Learning:** Improved the performance of the Double DisCo NN and optimized the working point of a DNN (for object tagging).
 * **Academic Mentorship:** Ph.D. Co-Supervisor, M.S. Co-Supervisor for theses.
 * **Teaching:** Taught to laboratory sessions for bachelors students studying physics.
 * **Outreach Tutor:** Demonstrating cloud chamber experiment for ”Physics Proect Days” targeting high school girls.
